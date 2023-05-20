@@ -1,0 +1,43 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "teste@teste.com",
+      "senha": "teste@123"
+    }
+  ],
+  "informacoes": [
+    {
+      "id": 1,
+      "foto": "https://github.com/Milena-Tyagra.png",
+      "nome": "Milena Tyagra da Silva",
+      "cargo": "Full stack developer",
+      "resumo": "resumo grandão2- teste"
+    }
+  ],
+  "certificacoes": [
+    {
+      "titulo": "teste",
+      "instituicao": "Alura",
+      "id": 3
+    }
+  ],
+  "experiencias": [
+    {
+      "empresa": "rota",
+      "periodo": "10/02/2013 - 10-12-13",
+      "descricao": "rtysertse",
+      "id": 1
+    }
+  ],
+  "projetos": [
+    {
+      "titulo": "teste",
+      "descricao": "hjkgh",
+      "tecnologias": [],
+      "link_repositorio": "ghkghk",
+      "link_aplicacao": "ghkgfhk",
+      "id": 1
+    }
+  ]
+}
