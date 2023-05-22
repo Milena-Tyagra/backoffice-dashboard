@@ -8,36 +8,63 @@
   ],
   "informacoes": [
     {
-      "id": 1,
-      "foto": "https://github.com/Milena-Tyagra.png",
-      "nome": "Milena Tyagra da Silva",
       "cargo": "Full stack developer",
-      "resumo": "resumo grandão2- teste"
+      "foto": "https://github.com/Milena-Tyagra.png",
+      "id": 1,
+      "nome": "Milena Tyagra da Silva",
+      "resumo": "✨ Aumento de responsabilidades, mas ainda no mesmo viés do que já fazia no estágio\n✨Durante um período de alguns meses até a empresa conseguir encontrar mais um profissional experiente para atuar em nosso time, fiquei responsável pelo time de Front-end e mentoreando nossos dois estagiários\n✨Aumento de demanda e consequentemente de pressão e experiências\n✨ Desenvolvi a documentação de todos os componentes utilizados no Front-end"
     }
   ],
   "certificacoes": [
     {
-      "titulo": "teste",
+      "id": 4,
+      "instituicao": "Uniasselvi",
+      "titulo": "Graduação em Administração concluida"
+    },
+    {
+      "id": 5,
       "instituicao": "Alura",
-      "id": 3
+      "titulo": "Introdução ao JavaScript"
     }
   ],
   "experiencias": [
     {
-      "empresa": "rota",
-      "periodo": "10/02/2013 - 10-12-13",
-      "descricao": "rtysertse",
-      "id": 1
+      "descricao": "✨Após migração de carreira, foi o primeiro emprego na área, onde aprendi praticamente tudo o que sei hoje sobre Vue.js, HTML, CSS e processos de gestão de frotas.\n✨Durante esse ano, trabalhei com várias funcionalidades, principalmente atuando com processos de gestão, Juntamente com um parceiro de trabalho, implementamos gráficos em 100% dos relatórios do sistema;\n✨ Iniciei na migração de um sistema antigo para uma nova versão e juntamente com meus colegas de equipe reconstruímos o sistema praticamente do zero.\n✨ Aumento de responsabilidades, mas ainda no mesmo viés do que já fazia no estágio\n✨Durante um período de alguns meses até a empresa conseguir encontrar mais um profissional experiente para atuar em nosso time, fiquei responsável pelo time de Front-end e mentoreando nossos dois estagiários\n✨Aumento de demanda e consequentemente de pressão e experiências\n✨ Desenvolvi a documentação de todos os componentes utilizados no Front-end",
+      "empresa": "Rota Exata",
+      "id": 1,
+      "periodo": "18/01/2021 - 21/12/2022"
+    },
+    {
+      "descricao": "✨Desenvolvimento de front-end, back-end e mobile",
+      "empresa": "Solvel Light",
+      "id": 2,
+      "periodo": "02/03/2023 - atualidade"
     }
   ],
   "projetos": [
     {
-      "titulo": "teste",
-      "descricao": "hjkgh",
-      "tecnologias": [],
-      "link_repositorio": "ghkghk",
-      "link_aplicacao": "ghkgfhk",
+      "titulo": "Projeto A",
+      "descricao": "Projeto de Mercadinho",
+      "tecnologias": ["HTML", "React", "Node"],
+      "link_aplicacao": "",
+      "link_repositorio": "",
       "id": 1
+    },
+    {
+      "titulo": "Projeto B",
+      "descricao": "Projeto de Calculadora",
+      "tecnologias": ["Vue"],
+      "link_aplicacao": "",
+      "link_repositorio": "",
+      "id": 2
+    },
+    {
+      "titulo": "Projeto C",
+      "descricao": "Projeto de Cronometro",
+      "tecnologias": ["React"],
+      "link_aplicacao": "",
+      "link_repositorio": "",
+      "id": 3
     }
   ]
 }
